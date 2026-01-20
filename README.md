@@ -1,1 +1,1 @@
-# beathub
+# beathub-api
